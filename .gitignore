@@ -1,0 +1,24 @@
+############################
+# NPM files
+############################
+**/node_modules
+**/bower_components
+node_modules
+bower_components
+npm-debug.log*
+.node_repl_history
+.node_history
+.lock-wscript
+.npm
+.vscode
+
+
+############################
+# Build
+############################
+build
+public*
+dist
+*_dist
+
+
